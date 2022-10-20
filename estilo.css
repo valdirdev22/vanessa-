@@ -1,0 +1,127 @@
+
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+    width: 70%;
+    margin: auto;
+  } 
+
+  .container {
+    margin-top: 20px;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    
+  }
+
+  #services {
+    background: #2efcf1;
+  }
+
+  .cards .card {
+    border-radius: 50%;
+    background: #f7fa69;
+  }
+
+p {
+  font-size: 17px;
+}
+
+ul.li {
+  position: relative;
+  padding-top: 8px;
+  padding-bottom: 15px;
+   color: rgb(250, 56, 169);
+    font-size: 45px;
+  }
+ 
+  
+ .carousel-inner {
+   background-color: rgb(250, 56, 169);
+   border-radius: 21%;
+} 
+
+.logo_1 {
+  color:#dd8c30;
+  font-size: 22px;
+}
+
+.logo_2 {
+  color:#eb4dae;
+  font-size: 22px;
+}
+
+a.title {
+  font-size: medium;
+}
+
+
+
+#myCarousel {
+    padding-top: 30px;
+    margin-top: 24px;
+}
+
+.img_1 {
+  position: relative;
+ color: #FFFF00;
+ font-size: 48px;
+  margin-left: 355px;
+  margin-top: -95px;
+  padding-bottom: 30px;
+}
+
+.img_2 {
+  position: relative;
+ color:   #FFFF00;
+ font-size: 48px;
+  margin-left: 325px;
+  margin-top: -95px;
+  padding-bottom: 30px;
+}
+
+.img_3 {
+  position: relative;
+ color:  #FFFF00;
+ font-size: 35px;
+  margin-left: 417px;
+  margin-top: -95px;
+  padding-bottom: 40px;
+}
+
+.img_4 {
+  position: relative;
+ color:  #FFFF00;
+ font-size: 35px;
+  margin-left: 350px;
+  margin-top: -95px;
+  padding-bottom: 40px;
+}
+
+.img_5 {
+  position: relative;
+ color:  #FFFF00;
+ font-size: 37px;
+  margin-left: 390px;
+  margin-top: -95px;
+  padding-bottom: 40px;
+}
+
+.img_6 {
+  position: relative;
+ color:   #FFFF00;
+ font-size: 48px;
+  margin-left: 375px;
+  margin-top: -95px;
+  padding-bottom: 40px;
+}
+
+
+ img {
+  border-radius: 21%;
+ }
+
+
+
+ .menu.grid {
+    font-size: 25px;
+    padding-top: 15px;
+ }
